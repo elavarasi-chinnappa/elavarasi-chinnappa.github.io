@@ -8,10 +8,10 @@ Development Life Cycle. Proficient in Software Development using C#, .NET Core, 
 ## Skills
 
 <p align='left'>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".net" width="40" height="40" style="margin: 5px;"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZC8_zjVB6TiN9RS_r-rFtzmyiJdmry3Q5lmjbs_0R&s" alt="sitecore" width="70" height="35" style="margin: 5px;"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/225px-Microsoft_Azure.svg.png" alt="sitecore" width="50" height="35" style="margin: 5px;"/>
-  <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='35' width='auto' alt="js" style="margin: 5px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".net" width="40" height="40" style="margin: 8px;"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZC8_zjVB6TiN9RS_r-rFtzmyiJdmry3Q5lmjbs_0R&s" alt="sitecore" width="90" height="39" style="margin: 8px;"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/225px-Microsoft_Azure.svg.png" alt="sitecore" width="50" height="35" style="margin: 8px;"/>
+  <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='35' width='auto' alt="js" style="margin: 8px;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="sql" width="auto" height="35" style="margin: 5px 7px;"/>   
 </p>
 
