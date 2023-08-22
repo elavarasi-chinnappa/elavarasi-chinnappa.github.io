@@ -1,6 +1,7 @@
 ## Portfolio
 
-Senior Software Engineer with 6+ years of experience in overseeing all aspects of the Software Development Life Cycle. Proficient in Software Development using .NET Core, Python, Angular and Database Management. AWS Certified Developer Associate involved in developing Microservices Serverless applications using AWS Cloud Services.
+Senior Software Engineer with 10+ years of experience in overseeing all aspects of the Software
+Development Life Cycle. Proficient in Software Development using C#, .NET Core, Sitecore, Azure, Database Management and Agile/Scrum methodology. Certified .NET Developer involved in developing web applications and Microservices.
 
 ---
 
@@ -8,9 +9,8 @@ Senior Software Engineer with 6+ years of experience in overseeing all aspects o
 
 <p align='left'>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".net" width="40" height="40" style="margin: 5px;"/>
-  <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" alt="python" width="70" height="35" style="margin-bottom: 5px;"/>
-  <img src='https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg' alt="aws" width="40" height="35" style="margin: 5px;"/>
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="38" style="margin: 5px 7px;"/>
+  <img src="https://w7.pngwing.com/pngs/415/954/png-transparent-sitecore-hd-logo-thumbnail.png" alt="sitecore" width="70" height="35" style="margin-bottom: 5px;"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/225px-Microsoft_Azure.svg.png" alt="sitecore" width="50" height="35" style="margin-bottom: 5px;"/>
   <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='35' width='auto' alt="js" style="margin: 5px;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="sql" width="auto" height="35" style="margin: 5px 7px;"/>   
 </p>
@@ -19,42 +19,52 @@ Senior Software Engineer with 6+ years of experience in overseeing all aspects o
 
 ## Badges
 
-<p align='left'>
-  <img src="/AWS-Certified_Developer_Associate_badge.png" alt="html" width="125" height="120" />
-  <img src="/Microsoft-70-486.png" alt="css" width="145" height="125" />   
+<p align='left'>  
+  <img src="/Microsoft-70-486.png" alt="microsoft certification" width="145" height="125" />   
+  <img src="/azure-fundamentals.png" alt="azure fundamental certification" width="125" height="120" />
 </p>
 
 ---
 
 ## Experience
 
-### **Senior Engineer – Cloud Services and Software**
-### L&T Infotech
+### **Module Lead**
+### Mindtree Pvt Ltd
 
-Developing Microservices serverless applications using cutting edge technologies and deploying to AWS Cloud environment. Managing a team of 6 members to migrate On-Premise application to AWS.
+Designed and developed microservices applications using .NET Core and MS SQL Server in Agile methodology, resulting in
+scalable and maintainable software solutions. Managing a team of 8 members to migrate legacy application to Microservices.
 
-### **Senior Associate**
-### Emis Health India Pvt Ltd
+### **Senior Analyst**
+### Accenture
 
-Developed Serverless applications using GO Lang, React JS AWS Lambda, DynamoDB, AWS Cognito and API Gateway. Accomplished a POC on maintaining Test
-cases for each modules of an application in a Single repository using Azure Test Suite. Managed and Enhanced various modules in Health Care application using C# and MS SQL Server.
+Developed web applications using ASP .NET MVC5, C#, and Sitecore (CMS), including versions Sitecore 9.1 and Sitecore 10.2.
+Managed CI/CD pipelines using Azure DevOps for efficient user story implementation and code deployment.
+Achieved more than 75% code coverage through comprehensive unit testing using N-Unit, enhancing software quality and
+reliability.
 
 ### **Associate Consultant - Technology**
 ### Virtusa Consulting Software Services Pvt Ltd
 
-Involved in transitioning application from On-Premise to AWS by lift and shift Policy. Enhanced the performance and Delivered ECommerce application with improvement in performance by 30%. Contributed to increase sprint velocity and added unit testing to achieve 85% code coverage.
-Fixed production issues and maintained application workflows in application support team.
+Involved in transitioning legacy application to Sitecore XP 8.0 ASP .NET, MS SQL, Javascript and JQuery resulting in enhanced
+performance and modernized user experience.
+Streamlined CRM systems by reducing the number of platforms used, leading to increased operational efficiency and reduced
+maintenance overhead.
+
+### **System Engineer**
+### Tata Consultancy Services Pvt Ltd 
+Contributed to the application development process by employing Test-Driven Development (TDD) framework, ensuring robust and
+reliable software.
+Integrated the application by consuming WCF and Web API services, enhancing the application's functionality and data
+exchange capabilities.
 
 ---
 
 ## Education
 
 ### **Anna University**
-### BE Computer Science (2011 - 2015)
-GPA 7.7
+### Bachelor Of Technology (Information Technology) (2008 - 2012)
 
 ---
 
 ### INTERESTS
-Apart from being a Software Developer, I enjoy being outdoors, hanging out with friends. Love to play cricket and chess. 
-Curious in solving sudoku.
+Apart from being a Software Developer, I enjoy being outdoors, hanging out with friends and listening music.
