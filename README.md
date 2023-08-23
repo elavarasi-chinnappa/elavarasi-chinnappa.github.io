@@ -65,8 +65,9 @@ exchange capabilities.
 
 ### **Anna University**
 ### Bachelor Of Technology (Information Technology) (2008 - 2012)
-GPA 8.1
+### GPA 8.1
 
+---
 
 ### INTERESTS
 In addition to my role as a Software Developer, I take pleasure in engaging in various outdoor activities, spending time with friends, practicing yoga, cooking, going for walks, and indulging in music listening.
