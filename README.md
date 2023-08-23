@@ -1,6 +1,6 @@
 ## Portfolio
 
-Senior Software Engineer with 11+ years of experience in overseeing all aspects of the Software
+Senior Software Engineer with 10+ years of experience in overseeing all aspects of the Software
 Development Life Cycle. Proficient in Software Development using C#, .NET Core, Sitecore, Azure, Database Management and Agile/Scrum methodology. Certified .NET Developer involved in developing web applications and Microservices.
 
 ---
@@ -65,8 +65,8 @@ exchange capabilities.
 
 ### **Anna University**
 ### Bachelor Of Technology (Information Technology) (2008 - 2012)
-
+GPA 8.1
 ---
 
 ### INTERESTS
-Apart from being a Software Developer, I enjoy being outdoors, hanging out with friends and listening music.
+In addition to my role as a Software Developer, I take pleasure in engaging in various outdoor activities, spending time with friends, practicing yoga, cooking, going for walks, and indulging in music listening.
