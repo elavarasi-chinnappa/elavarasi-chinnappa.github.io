@@ -9,3 +9,4 @@ description: >  # your text below (remove <br> elements if you don't need line b
   <a href="http://www.linkedin.com/in/elavarasi-chinnappa">LinkedIn Profile</a>
   <br>
   <a href="https://github.com/elavarasi-chinnappa">Github</a> 
+  theme: jekyll-theme-minimal
