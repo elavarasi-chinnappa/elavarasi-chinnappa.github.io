@@ -28,6 +28,7 @@ Experienced Senior Software Engineer with over 10 years of hands-on experience i
 
 ### Module Lead (Jan 2021 to May 2023) | Mindtree Pvt Ltd
 - Developed Agile microservices apps using **.NET Core** and MS SQL Server.
+- Proficiently Utilized **Entity Framework** and ADO.NET
 - Led the development of web applications using **.NET and Sitecore JSS**, leveraging both Sitecore 9.1 and Sitecore 10.2.
 - Implemented various Sitecore customizations including pipelines, custom shell commands, PSE scripts, Solr/Azure indexing, and Search Stax integration.
 - Integrated and consumed microservices to enable custom personalization features within the application.
@@ -56,6 +57,7 @@ Experienced Senior Software Engineer with over 10 years of hands-on experience i
 #### DLL Project
 - Led conversion of ASP.NET VB code application to MVC4 C# within Sitecore XP 8.2 framework for global vendor finance company.
 - Utilized **ASP.NET MVC4, C#**, and Sitecore XP 8.2 to create dynamic applications.
+- Proficiently Utilized **MS SQL** Queries
 - Conducted extensive testing, including unit testing using NUnit and API testing using SOAP UI.
 - Managed version control using **Tortoise SVN** for efficient code collaboration.
 
@@ -63,6 +65,7 @@ Experienced Senior Software Engineer with over 10 years of hands-on experience i
 - Led migration of hotel management application (LoyaltyBuild) from ColdFusion Java to Sitecore XP 8.0 ASP.NET.
 - Collaborated closely with stakeholders to analyze requirements and design strategies for application conversion and enhancement.
 - Utilized ASP.NET and Sitecore XP 8.0 to create a dynamic hotel management system.
+- Proficiently Utilized **MS SQL ** Queries
 - Conducted thorough unit testing and participated in integration testing.
 - Implemented multi-lingual and multi-site support, enabling the application to cater to a diverse user base.
 -  Facilitated Seamless Client Communication Across Onshore and Offshore Locations with Onsite (**Ireland**) Support During UAT Deployment 
@@ -70,6 +73,7 @@ Experienced Senior Software Engineer with over 10 years of hands-on experience i
 ### Assitant System Engineer Trainee (Nov 2012 to Jan 2013) | Assitant System Engineer (Feb 2013 to April 2014) System Engineer (May 2014 to July 2015) | Tata Consultancy Services Pvt Ltd
 - Led development of IDE HUMANA.Com, a healthcare portal serving as a central hub for product and plan information.
 - Utilized **ASP.NET MVC3, C#**, Sitecore XP 6.7, Glass Mapper, and integrated with WCF and WEB API services.
+- Proficiently Utilized Entity Framework and ADO.NET
 - Applied test-driven development (TDD) principles and conducted unit and integration testing.
 - Managed version control using TFS and developed secured portals for employers, members, and plan renewal.
 
