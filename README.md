@@ -26,8 +26,9 @@ Experienced Senior Software Engineer with over 10 years of hands-on experience i
 
 ## Experience
 
-### Module Lead (Jan 2021 to May 2023) | Mindtree Pvt Ltd
+### Mindtree Pvt Ltd | Module Lead (Jan 2021 to May 2023)
 - Developed Agile microservices apps using **.NET Core** and MS SQL Server.
+- Delivered dedicated production support services from **Sydney, Australia** for a continuous period exceeding three months.
 - Proficiently Utilized **Entity Framework** and ADO.NET
 - Led the development of web applications using **.NET and Sitecore JSS**, leveraging both Sitecore 9.1 and Sitecore 10.2.
 - Implemented various Sitecore customizations including pipelines, custom shell commands, PSE scripts, Solr/Azure indexing, and Search Stax integration.
@@ -38,9 +39,8 @@ Experienced Senior Software Engineer with over 10 years of hands-on experience i
 - Developed unit tests using **XUnit** for Sitecore-related custom code and API consumption, achieving over 80% code coverage.
 - Provided extended production support activities including deployment and incident root cause analysis and resolution.
 - Managed a team of 8+ members, overseeing user story walkthroughs, estimations, analysis, technical guidance, code reviews, and task assignments.
-- Delivered dedicated production support services from **Sydney, Australia** for a continuous period exceeding three months.
 
-### Application Development Senior Analyst (Nov 2017 to Jan 2021) | Accenture
+### Accenture | Application Development Senior Analyst (Nov 2017 to Jan 2021)
 #### Eisai Project
 - Led the migration and enhancement of pharmaceutical sites from ASP.NET MVC Sitecore 8.0 to Sitecore 9.1 using SXA and Sitecore Forms.
 - Utilized **ASP.NET MVC4, C#**, and Sitecore XP 9.1 to develop responsive web applications.
@@ -61,7 +61,7 @@ Experienced Senior Software Engineer with over 10 years of hands-on experience i
 - Conducted extensive testing, including unit testing using NUnit and API testing using SOAP UI.
 - Managed version control using **Tortoise SVN** for efficient code collaboration.
 
-### Senior Software Engineer (Aug 2015 to Dec 2016) | Associate Consultant - Technology (Jan 2016 to Nov 2017)| Virtusa Consulting Software Services Pvt Ltd
+### Virtusa Consulting Software Services Pvt Ltd | Senior Software Engineer (Aug 2015 to Dec 2016) | Associate Consultant - Technology (Jan 2016 to Nov 2017)
 - Led migration of hotel management application (LoyaltyBuild) from ColdFusion Java to Sitecore XP 8.0 ASP.NET.
 - Collaborated closely with stakeholders to analyze requirements and design strategies for application conversion and enhancement.
 - Utilized ASP.NET and Sitecore XP 8.0 to create a dynamic hotel management system.
@@ -70,7 +70,7 @@ Experienced Senior Software Engineer with over 10 years of hands-on experience i
 - Implemented multi-lingual and multi-site support, enabling the application to cater to a diverse user base.
 -  Facilitated Seamless Client Communication Across Onshore and Offshore Locations with Onsite (**Ireland**) Support During UAT Deployment 
 
-### Assitant System Engineer Trainee (Nov 2012 to Jan 2013) | Assitant System Engineer (Feb 2013 to April 2014) System Engineer (May 2014 to July 2015) | Tata Consultancy Services Pvt Ltd
+### Tata Consultancy Services Pvt Ltd | Assitant System Engineer Trainee (Nov 2012 to Jan 2013) | Assitant System Engineer (Feb 2013 to April 2014) System Engineer (May 2014 to July 2015)
 - Led development of IDE HUMANA.Com, a healthcare portal serving as a central hub for product and plan information.
 - Utilized **ASP.NET MVC3, C#**, Sitecore XP 6.7, Glass Mapper, and integrated with WCF and WEB API services.
 - Proficiently Utilized Entity Framework and ADO.NET
