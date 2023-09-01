@@ -35,8 +35,9 @@ Experienced Senior Software Engineer with over 10 years of hands-on experience i
 - Integrated and consumed microservices to enable custom personalization features within the application.
 - Implemented **Okta** authentication for custom roles and Single Sign-On (**SSO**) authentication for Admin User Impersonation.
 - Configured **Azure CI/CD pipelines** for continuous integration and continuous deployment, automating the deployment of .NET and React code.
-- Enhanced application performance by implementing **Redis Cache** and optimizing code, resulting in a performance improvement of 50%.
+-Improved application performance by incorporating a **Redis Cache** and optimizing the codebase, resulting in a notable performance enhancement of 50%. Skillfully leveraged the **New Relic** tool to accurately identify performance bottlenecks within the application.
 - Developed unit tests using **XUnit** for Sitecore-related custom code and API consumption, achieving over 80% code coverage.
+- Thoroughly utilized **SonarQube** within Visual Studio to enhance both code quality and code coverage comprehensively.
 - Provided extended production support activities including deployment and incident root cause analysis and resolution.
 - Managed a team of 8+ members, overseeing user story walkthroughs, estimations, analysis, technical guidance, code reviews, and task assignments.
 
@@ -50,22 +51,22 @@ Experienced Senior Software Engineer with over 10 years of hands-on experience i
 
 #### Zurich Project
 - Led migration and enhancement of Zurich Insurance Group website, leveraging **ASP.NET MVC4**, C#, Sitecore XP 9.0, and SXA.
-- Integrated Sitecore Experience Accelerator (SXA) and WFFM Forms to improve user interactions.
-- Implemented SOLR indexing and Azure search indexing to enhance search functionality.
-- Managed Azure DevOps, GIT, and JIRA for version control and issue tracking.
+- Integrated **Sitecore Experience Accelerator (SXA)** and WFFM Forms to improve user interactions.
+- Implemented **SOLR indexing** and Azure search indexing to enhance search functionality.
+- Managed **Azure DevOps, GIT, and JIRA** for version control and issue tracking.
 
 #### DLL Project
 - Led conversion of ASP.NET VB code application to MVC4 C# within Sitecore XP 8.2 framework for global vendor finance company.
 - Utilized **ASP.NET MVC4, C#**, and Sitecore XP 8.2 to create dynamic applications.
 - Proficiently Utilized **MS SQL** Queries
-- Conducted extensive testing, including unit testing using NUnit and API testing using SOAP UI.
+- Conducted extensive testing, including unit testing using **NUnit** and API testing using **SOAP UI**.
 - Managed version control using **Tortoise SVN** for efficient code collaboration.
 
 ### Virtusa Consulting Software Services Pvt Ltd | Senior Software Engineer (Aug 2015 to Dec 2016) | Associate Consultant - Technology (Jan 2016 to Nov 2017)
-- Led migration of hotel management application (LoyaltyBuild) from ColdFusion Java to Sitecore XP 8.0 ASP.NET.
+- Led migration of hotel management application (LoyaltyBuild) from ColdFusion Java to **Sitecore XP 8.0 ASP.NET**.
 - Collaborated closely with stakeholders to analyze requirements and design strategies for application conversion and enhancement.
 - Utilized ASP.NET and Sitecore XP 8.0 to create a dynamic hotel management system.
-- Proficiently Utilized **MS SQL ** Queries
+- Proficiently Utilized **MS SQL** Queries
 - Conducted thorough unit testing and participated in integration testing.
 - Implemented multi-lingual and multi-site support, enabling the application to cater to a diverse user base.
 -  Facilitated Seamless Client Communication Across Onshore and Offshore Locations with Onsite (**Ireland**) Support During UAT Deployment 
@@ -73,9 +74,9 @@ Experienced Senior Software Engineer with over 10 years of hands-on experience i
 ### Tata Consultancy Services Pvt Ltd | Assitant System Engineer Trainee (Nov 2012 to Jan 2013) | Assitant System Engineer (Feb 2013 to April 2014) System Engineer (May 2014 to July 2015)
 - Led development of IDE HUMANA.Com, a healthcare portal serving as a central hub for product and plan information.
 - Utilized **ASP.NET MVC3, C#**, Sitecore XP 6.7, Glass Mapper, and integrated with WCF and WEB API services.
-- Proficiently Utilized Entity Framework and ADO.NET
-- Applied test-driven development (TDD) principles and conducted unit and integration testing.
-- Managed version control using TFS and developed secured portals for employers, members, and plan renewal.
+- Proficiently Utilized **Entity Framework and ADO.NET**
+- Applied test-driven development (**TDD**) principles and conducted unit and integration testing.
+- Managed version control using **TFS** and developed secured portals for employers, members, and plan renewal.
 
 ## Education
 - Bachelor Of Technology (Information Technology), Anna University (2008 - 2012)
